@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{485A9D57-2D8C-4105-B03F-DB8363D10054}</ProjectGuid>
+    <ProjectGuid>{A6F94247-81F9-47D0-96D3-A58D84416B7E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Switch</RootNamespace>
-    <AssemblyName>Switch</AssemblyName>
+    <RootNamespace>Arreglos</RootNamespace>
+    <AssemblyName>Arreglos</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

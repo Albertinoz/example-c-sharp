@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Switch
+namespace Arreglos
 {
     internal class Program
     {
@@ -13,8 +13,7 @@ namespace Switch
                 case 1:
                     Console.WriteLine("Seleccionaste la opción uno");
                     break;
-                default:
-                    Console.WriteLine("Ninguna opción elegida");
+                default: Console.WriteLine("Ninguna opción elegida");
                     break;
             }
         }
