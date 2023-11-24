@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InyeccionDep", "InyeccionDe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulamiento", "Encapsulamiento\Encapsulamiento.csproj", "{B149FAD8-EE68-4D9D-A319-8FBA747E5E51}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MutexEjemplo", "MutexEjemplo\MutexEjemplo.csproj", "{BF3D612A-153F-4938-BA39-DCA680383C44}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{B149FAD8-EE68-4D9D-A319-8FBA747E5E51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B149FAD8-EE68-4D9D-A319-8FBA747E5E51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B149FAD8-EE68-4D9D-A319-8FBA747E5E51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF3D612A-153F-4938-BA39-DCA680383C44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF3D612A-153F-4938-BA39-DCA680383C44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF3D612A-153F-4938-BA39-DCA680383C44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF3D612A-153F-4938-BA39-DCA680383C44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
