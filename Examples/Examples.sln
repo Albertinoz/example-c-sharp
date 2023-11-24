@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch", "Switch\Switch.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq", "Linq\Linq.csproj", "{C40DA289-4C53-4E84-9727-A9EB10682D90}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InyeccionDep", "InyeccionDep\InyeccionDep.csproj", "{1E2428E7-18BB-41AD-898F-3691338013DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C40DA289-4C53-4E84-9727-A9EB10682D90}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C40DA289-4C53-4E84-9727-A9EB10682D90}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C40DA289-4C53-4E84-9727-A9EB10682D90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E2428E7-18BB-41AD-898F-3691338013DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E2428E7-18BB-41AD-898F-3691338013DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E2428E7-18BB-41AD-898F-3691338013DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E2428E7-18BB-41AD-898F-3691338013DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
