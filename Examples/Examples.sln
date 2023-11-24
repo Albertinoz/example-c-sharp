@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MutexEjemplo", "MutexEjempl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegado", "Delegado\Delegado.csproj", "{6116D0CC-4415-4522-B270-B7917C0BE8D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reflexion", "Reflexion\Reflexion.csproj", "{19A29ADD-4ABB-451B-8090-B5D6250F6C17}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{6116D0CC-4415-4522-B270-B7917C0BE8D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6116D0CC-4415-4522-B270-B7917C0BE8D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6116D0CC-4415-4522-B270-B7917C0BE8D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19A29ADD-4ABB-451B-8090-B5D6250F6C17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19A29ADD-4ABB-451B-8090-B5D6250F6C17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19A29ADD-4ABB-451B-8090-B5D6250F6C17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19A29ADD-4ABB-451B-8090-B5D6250F6C17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
